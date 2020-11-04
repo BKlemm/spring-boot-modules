@@ -1,3 +1,5 @@
-# Spring Boot Pm2 Starter
+# Spring Boot Module Collection
 
-This module is a spring boot custom starter for pm2 node.js Process Manager
+This module contains the modules:
+
+* **spring-boot-pm2-starter** : is a spring boot custom starter for pm2 node.js Process Manager
